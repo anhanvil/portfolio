@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact</title>
+	<meta charset="utf-8" />
+	<link href="../css/styles.css" rel="stylesheet" type="text/css">
+	<style>
+		h1 {font-family:"Arial"}
+		#cssmenu {float:left;margin-bottom:40em;margin-right:1em;}
+		#form {float:left;background-color:silver;border-radius:.5em;padding-right:.5em;padding-left:.5em;padding-bottom:.5em;}
+		body {background-image:url('../images/scifiscene.bmp'); background-size: cover; background-repeat: no-repeat;}
+		.footer {bottom:0px;position:absolute;text-align:center;padding:.25em;background-color:black;color:white;border-radius:.5em;}
+	</style>
+</head>
+<body>
+	<h1>Contact</h1>
+	<div id='cssmenu'>
+		<ul>
+			<li class='active'><a href='index.html'><span>Home</span></a></li>
+			<li><a href='3Dmodels.html'><span>3D Models</span></a></li>
+			<li><a href='animations.html'><span>Animations</span></a></li>
+			<li><a href='coding.html'><span>Coding Samples</span></a></li>
+			<li><a href='aboutme.html'><span>About Me</span></a></li>
+			<li class='last'><a href='contact.html'><span>Contact</span></a></li>
+		</ul>
+	</div>
+	<div id="form">
+		<form action="../inclass/formmail.php" method="get" id="emailform">
+			<input type="hidden" name="recipient" value="cjs1229@rit.edu">
+			<p>
+				<label>First Name:</label> <br />
+				<input type="text" size="40" name="fname" placeholder="Your first name"><br />
+			</p>
+			<p>
+				<label>Last Name:</label> <br />
+				<input type="text" size="40" name="lname" placeholder="Your last name"><br />
+			</p>
+			<p>
+				<label>Email Address:</label> <br />
+				<input type="text" size="40" name="email" placeholder="Your email address"><br />
+			</p>
+			<p>
+				<label>Message</label> <br />
+				<textarea rows="5" cols="40" name="comments"></textarea>
+			</p>
+			<input style="display:inline" type="submit" value="Email Me">
+			<input  style="display:inline" type="reset" value="Clear">
+		</form>
+	</div>
+	<div class="footer">
+		Conor Skatrud, 2014
+	</div>
+</body></html>

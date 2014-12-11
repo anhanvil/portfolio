@@ -1,0 +1,861 @@
+fileFormatVersion: 2
+guid: 771fa9e45f9979544b4b17b5fcd1f165
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group6
+    100004: head_CTRL
+    100006: head_top
+    100008: hips
+    100010: left_back_claw_end
+    100012: left_back_claw_end1
+    100014: left_back_claw_top
+    100016: left_back_claw_top1
+    100018: left_elbow
+    100020: left_elbow_CTRL
+    100022: left_finger_end
+    100024: left_finger_mid
+    100026: left_finger_top
+    100028: left_fingers_CTRL
+    100030: left_left_claw_end
+    100032: left_left_claw_end1
+    100034: left_left_claw_top
+    100036: left_left_claw_top1
+    100038: left_leg_ankle
+    100040: left_leg_ankle1
+    100042: left_leg_knee
+    100044: left_leg_knee1
+    100046: left_leg_top
+    100048: left_leg_top1
+    100050: left_mid_claw_end
+    100052: left_mid_claw_end1
+    100054: left_mid_claw_top
+    100056: left_mid_claw_top1
+    100058: left_right_claw_end
+    100060: left_right_claw_end1
+    100062: left_right_claw_top
+    100064: left_right_claw_top1
+    100066: left_shoulder
+    100068: left_shoulder_CTRL
+    100070: left_thumb_end
+    100072: left_thumb_mid
+    100074: left_thumb_top
+    100076: left_wrist
+    100078: left_wrist_CTRL
+    100080: left_wrist_helper
+    100082: master_CTRL
+    100084: midriff
+    100086: neck_base
+    100088: neck_CTRL
+    100090: neck_mid
+    100092: neck_top
+    100094: nurbsCircle1
+    100096: pasted__group5
+    100098: pasted__pasted__group
+    100100: pasted__pasted__master_CTRL
+    100102: pasted__pasted__neck_CTRL
+    100104: pCube3
+    100106: right_elbow
+    100108: right_elbow_CTRL
+    100110: right_finger_end
+    100112: right_finger_mid
+    100114: right_finger_top
+    100116: right_shoulder
+    100118: right_shoulder_CTRL
+    100120: right_thumb_end
+    100122: right_thumb_mid
+    100124: right_thumb_top
+    100126: right_wrist
+    100128: right_wrist_CTRL
+    100130: right_wrist_helper
+    100132: spine_base
+    100134: spine_CTRL_1
+    100136: waist_CTRL
+    400000: //RootNode
+    400002: group6
+    400004: head_CTRL
+    400006: head_top
+    400008: hips
+    400010: left_back_claw_end
+    400012: left_back_claw_end1
+    400014: left_back_claw_top
+    400016: left_back_claw_top1
+    400018: left_elbow
+    400020: left_elbow_CTRL
+    400022: left_finger_end
+    400024: left_finger_mid
+    400026: left_finger_top
+    400028: left_fingers_CTRL
+    400030: left_left_claw_end
+    400032: left_left_claw_end1
+    400034: left_left_claw_top
+    400036: left_left_claw_top1
+    400038: left_leg_ankle
+    400040: left_leg_ankle1
+    400042: left_leg_knee
+    400044: left_leg_knee1
+    400046: left_leg_top
+    400048: left_leg_top1
+    400050: left_mid_claw_end
+    400052: left_mid_claw_end1
+    400054: left_mid_claw_top
+    400056: left_mid_claw_top1
+    400058: left_right_claw_end
+    400060: left_right_claw_end1
+    400062: left_right_claw_top
+    400064: left_right_claw_top1
+    400066: left_shoulder
+    400068: left_shoulder_CTRL
+    400070: left_thumb_end
+    400072: left_thumb_mid
+    400074: left_thumb_top
+    400076: left_wrist
+    400078: left_wrist_CTRL
+    400080: left_wrist_helper
+    400082: master_CTRL
+    400084: midriff
+    400086: neck_base
+    400088: neck_CTRL
+    400090: neck_mid
+    400092: neck_top
+    400094: nurbsCircle1
+    400096: pasted__group5
+    400098: pasted__pasted__group
+    400100: pasted__pasted__master_CTRL
+    400102: pasted__pasted__neck_CTRL
+    400104: pCube3
+    400106: right_elbow
+    400108: right_elbow_CTRL
+    400110: right_finger_end
+    400112: right_finger_mid
+    400114: right_finger_top
+    400116: right_shoulder
+    400118: right_shoulder_CTRL
+    400120: right_thumb_end
+    400122: right_thumb_mid
+    400124: right_thumb_top
+    400126: right_wrist
+    400128: right_wrist_CTRL
+    400130: right_wrist_helper
+    400132: spine_base
+    400134: spine_CTRL_1
+    400136: waist_CTRL
+    4300000: pCube3
+    7400000: idle
+    7400002: run
+    7400004: walk
+    7400006: jump
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pCube3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 240
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group6
+        weight: 1
+      - path: group6/pasted__group5
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL/pasted__pasted__neck_CTRL
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL/pasted__pasted__neck_CTRL/head_CTRL
+        weight: 1
+      - path: hips
+        weight: 1
+      - path: hips/left_leg_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_back_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_back_claw_top/left_back_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_left_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_left_claw_top/left_left_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_mid_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_mid_claw_top/left_mid_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_right_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_right_claw_top/left_right_claw_end
+        weight: 1
+      - path: hips/left_leg_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_back_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_back_claw_top1/left_back_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_left_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_left_claw_top1/left_left_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_mid_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_mid_claw_top1/left_mid_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_right_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_right_claw_top1/left_right_claw_end1
+        weight: 1
+      - path: hips/spine_base
+        weight: 1
+      - path: hips/spine_base/midriff
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top/left_finger_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top/left_finger_mid/left_finger_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top/left_thumb_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top/left_thumb_mid/left_thumb_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist_helper
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid/neck_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid/neck_top/head_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top/right_finger_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top/right_finger_mid/right_finger_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top/right_thumb_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top/right_thumb_mid/right_thumb_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist_helper
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/master_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL/left_wrist_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL/left_wrist_CTRL/left_fingers_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/neck_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL/right_elbow_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL/right_elbow_CTRL/right_wrist_CTRL
+        weight: 1
+      - path: pCube3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 250
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group6
+        weight: 1
+      - path: group6/pasted__group5
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL/pasted__pasted__neck_CTRL
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL/pasted__pasted__neck_CTRL/head_CTRL
+        weight: 1
+      - path: hips
+        weight: 1
+      - path: hips/left_leg_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_back_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_back_claw_top/left_back_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_left_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_left_claw_top/left_left_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_mid_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_mid_claw_top/left_mid_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_right_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_right_claw_top/left_right_claw_end
+        weight: 1
+      - path: hips/left_leg_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_back_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_back_claw_top1/left_back_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_left_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_left_claw_top1/left_left_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_mid_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_mid_claw_top1/left_mid_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_right_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_right_claw_top1/left_right_claw_end1
+        weight: 1
+      - path: hips/spine_base
+        weight: 1
+      - path: hips/spine_base/midriff
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top/left_finger_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top/left_finger_mid/left_finger_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top/left_thumb_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top/left_thumb_mid/left_thumb_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist_helper
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid/neck_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid/neck_top/head_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top/right_finger_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top/right_finger_mid/right_finger_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top/right_thumb_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top/right_thumb_mid/right_thumb_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist_helper
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/master_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL/left_wrist_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL/left_wrist_CTRL/left_fingers_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/neck_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL/right_elbow_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL/right_elbow_CTRL/right_wrist_CTRL
+        weight: 1
+      - path: pCube3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 250
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group6
+        weight: 1
+      - path: group6/pasted__group5
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL/pasted__pasted__neck_CTRL
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL/pasted__pasted__neck_CTRL/head_CTRL
+        weight: 1
+      - path: hips
+        weight: 1
+      - path: hips/left_leg_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_back_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_back_claw_top/left_back_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_left_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_left_claw_top/left_left_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_mid_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_mid_claw_top/left_mid_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_right_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_right_claw_top/left_right_claw_end
+        weight: 1
+      - path: hips/left_leg_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_back_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_back_claw_top1/left_back_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_left_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_left_claw_top1/left_left_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_mid_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_mid_claw_top1/left_mid_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_right_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_right_claw_top1/left_right_claw_end1
+        weight: 1
+      - path: hips/spine_base
+        weight: 1
+      - path: hips/spine_base/midriff
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top/left_finger_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top/left_finger_mid/left_finger_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top/left_thumb_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top/left_thumb_mid/left_thumb_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist_helper
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid/neck_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid/neck_top/head_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top/right_finger_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top/right_finger_mid/right_finger_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top/right_thumb_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top/right_thumb_mid/right_thumb_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist_helper
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/master_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL/left_wrist_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL/left_wrist_CTRL/left_fingers_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/neck_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL/right_elbow_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL/right_elbow_CTRL/right_wrist_CTRL
+        weight: 1
+      - path: pCube3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: jump
+      takeName: Take 001
+      firstFrame: 250
+      lastFrame: 260
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group6
+        weight: 1
+      - path: group6/pasted__group5
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL/pasted__pasted__neck_CTRL
+        weight: 1
+      - path: group6/pasted__group5/pasted__pasted__group/pasted__pasted__master_CTRL/pasted__pasted__neck_CTRL/head_CTRL
+        weight: 1
+      - path: hips
+        weight: 1
+      - path: hips/left_leg_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_back_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_back_claw_top/left_back_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_left_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_left_claw_top/left_left_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_mid_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_mid_claw_top/left_mid_claw_end
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_right_claw_top
+        weight: 1
+      - path: hips/left_leg_top/left_leg_knee/left_leg_ankle/left_right_claw_top/left_right_claw_end
+        weight: 1
+      - path: hips/left_leg_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_back_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_back_claw_top1/left_back_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_left_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_left_claw_top1/left_left_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_mid_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_mid_claw_top1/left_mid_claw_end1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_right_claw_top1
+        weight: 1
+      - path: hips/left_leg_top1/left_leg_knee1/left_leg_ankle1/left_right_claw_top1/left_right_claw_end1
+        weight: 1
+      - path: hips/spine_base
+        weight: 1
+      - path: hips/spine_base/midriff
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top/left_finger_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_finger_top/left_finger_mid/left_finger_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top/left_thumb_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist/left_thumb_top/left_thumb_mid/left_thumb_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/left_shoulder/left_elbow/left_wrist_helper
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid/neck_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/neck_mid/neck_top/head_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top/right_finger_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_finger_top/right_finger_mid/right_finger_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top/right_thumb_mid
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist/right_thumb_top/right_thumb_mid/right_thumb_end
+        weight: 1
+      - path: hips/spine_base/midriff/neck_base/right_shoulder/right_elbow/right_wrist_helper
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/master_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL/left_wrist_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/left_shoulder_CTRL/left_elbow_CTRL/left_wrist_CTRL/left_fingers_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/neck_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL/right_elbow_CTRL
+        weight: 1
+      - path: nurbsCircle1/master_CTRL/waist_CTRL/spine_CTRL_1/right_shoulder_CTRL/right_elbow_CTRL/right_wrist_CTRL
+        weight: 1
+      - path: pCube3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
